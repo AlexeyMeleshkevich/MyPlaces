@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  MyPlaces
+//  myPlaces
 //
-//  Created by Alexey Meleshkevich on 30.11.2019.
+//  Created by Alexey Meleshkevich on 20/10/2019.
 //  Copyright © 2019 Alexey Meleshkevich. All rights reserved.
 //
 
